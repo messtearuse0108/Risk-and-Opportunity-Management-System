@@ -1,0 +1,6 @@
+-The Action Plan,Treatment and Date of Assessment in Monitoring of Risk 
+  and Opportunity should be iterated automatically after choosing Risk  Number.
+  The iteration of those will depend on the array of the chosen risk number's action plan and treatment
+-There must be only one table for all of the action plan and treatment.action_plan2 and treatment2 is only temporary. 
+-Dashboard for number of risks and opportunity. Should be filtered based on Division,Severity,Likelihood,Date of Assessment.
+- Feature to be added. History records of all the operations and before-update data
